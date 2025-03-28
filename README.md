@@ -173,16 +173,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </a>
 </p>
 
-## ⭐ Show your support
-
-Give a ⭐️ if this project helped you!
-
-<p align="center">
-    <a href="https://www.buymeacoffee.com/yourprofile">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-    </a>
-</p>
-
----
 
 <p align="center">Made with ❤️ by the KAYA Team</p>
